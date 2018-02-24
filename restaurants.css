@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    background-color: #f9f9f9;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+    padding-right: 10%; 
+}
+
+container {
+    align-self: center;
+    width: 1200px;
+    background-color: #fff;
+    margin: 0;
+    border: #888;
+    border: 1px;
+    display: block;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;    
+}
+
+header {
+width: 18%;
+    padding-top: 0px;
+    background: rgb(197, 241, 183);
+    float: left;
+    min-height: 800px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    background: #fff;
+    float: left;
+    width: 75%;
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 156, 28);
+    text-align: center;
+    color: floralwhite;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+#feed {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 100px;
+    color: rgb(105, 156, 28);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+
+#Millennials {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 100px;
+    color:rgb(105, 156, 28);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    font-weight: bold;
+    
+}
+
+h1 {
+    font-size: 36px;
+    background: rgb(216, 253, 205);
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+
+}nav ul {
+    list-style: none;
+
+
+}
+nav ul li {
+    margin-bottom: 10px;
+    
+
+}
+
+nav {
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+article {
+    margin-left: 30px;
+
+
+}
+
+
+.column-left { 
+    float: left; 
+    width: 250px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+.column-right{ float: right; width: 250px; }
+.column-center{ display: inline-block; width: 250px; }
